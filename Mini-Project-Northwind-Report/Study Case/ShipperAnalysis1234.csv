@@ -1,0 +1,831 @@
+OrderID;Ship Via;Ship City;Ship Country;Product Sales;Shipper Company;Shipper Category
+10248;3;Reims;France;27;Federal Shipping;Low
+10249;1;Münster;Germany;49;Speedy Express;Low
+10250;2;Rio de Janeiro;Brazil;60;United Package;Middle
+10251;1;Lyon;France;41;Speedy Express;Low
+10252;2;Charleroi;Belgium;105;United Package;Top
+10253;2;Rio de Janeiro;Brazil;102;United Package;Top
+10254;2;Bern;Switzerland;57;United Package;Middle
+10255;3;Genève;Switzerland;110;Federal Shipping;Top
+10256;2;Resende;Brazil;27;United Package;Low
+10257;3;San Cristóbal;Venezuela;46;Federal Shipping;Low
+10258;1;Graz;Austria;121;Speedy Express;Top
+10259;3;México D.F.;Mexico;11;Federal Shipping;Low
+10260;1;Köln;Germany;102;Speedy Express;Top
+10261;2;Rio de Janeiro;Brazil;40;United Package;Low
+10262;3;Albuquerque;USA;29;Federal Shipping;Low
+10263;3;Graz;Austria;184;Federal Shipping;Top
+10264;3;Bräcke;Sweden;60;Federal Shipping;Middle
+10265;1;Strasbourg;France;50;Speedy Express;Low
+10266;3;Oulu;Finland;12;Federal Shipping;Low
+10267;1;München;Germany;135;Speedy Express;Top
+10268;3;Caracas;Venezuela;14;Federal Shipping;Low
+10269;1;Seattle;USA;80;Speedy Express;Middle
+10270;1;Oulu;Finland;55;Speedy Express;Middle
+10271;2;Lander;USA;24;United Package;Low
+10272;2;Albuquerque;USA;70;United Package;Middle
+10273;3;Cunewalde;Germany;152;Federal Shipping;Top
+10274;1;Reims;France;27;Speedy Express;Low
+10275;1;Bergamo;Italy;18;Speedy Express;Low
+10276;3;México D.F.;Mexico;25;Federal Shipping;Low
+10277;3;Leipzig;Germany;32;Federal Shipping;Low
+10278;2;Luleå;Sweden;64;United Package;Middle
+10279;2;Frankfurt a.M.;Germany;15;United Package;Low
+10280;1;Luleå;Sweden;62;Speedy Express;Middle
+10281;1;Madrid;Spain;11;Speedy Express;Low
+10282;1;Madrid;Spain;8;Speedy Express;Low
+10283;3;Barquisimeto;Venezuela;76;Federal Shipping;Middle
+10284;1;Frankfurt a.M.;Germany;61;Speedy Express;Middle
+10285;2;Cunewalde;Germany;121;United Package;Top
+10286;3;Cunewalde;Germany;140;Federal Shipping;Top
+10287;3;Rio de Janeiro;Brazil;75;Federal Shipping;Middle
+10288;1;Reggio Emilia;Italy;13;Speedy Express;Low
+10289;3;London;UK;39;Federal Shipping;Low
+10290;1;Sao Paulo;Brazil;60;Speedy Express;Middle
+10291;2;Rio de Janeiro;Brazil;46;United Package;Low
+10292;2;Sao Paulo;Brazil;20;United Package;Low
+10293;3;México D.F.;Mexico;33;Federal Shipping;Low
+10294;2;Albuquerque;USA;75;United Package;Middle
+10295;2;Reims;France;4;United Package;Low
+10296;1;Barquisimeto;Venezuela;57;Speedy Express;Middle
+10297;2;Strasbourg;France;80;United Package;Middle
+10298;2;Cork;Ireland;125;United Package;Top
+10299;2;Rio de Janeiro;Brazil;35;United Package;Low
+10300;2;Bergamo;Italy;50;United Package;Low
+10301;2;Stuttgart;Germany;30;United Package;Low
+10302;2;Charleroi;Belgium;80;United Package;Middle
+10303;2;Sevilla;Spain;85;United Package;Middle
+10304;2;México D.F.;Mexico;42;United Package;Low
+10305;3;Anchorage;USA;80;Federal Shipping;Middle
+10306;3;Madrid;Spain;25;Federal Shipping;Low
+10307;2;Portland;USA;13;United Package;Low
+10308;3;México D.F.;Mexico;6;Federal Shipping;Low
+10309;1;Cork;Ireland;75;Speedy Express;Middle
+10310;2;Portland;USA;15;United Package;Low
+10311;3;Nantes;France;13;Federal Shipping;Low
+10312;2;Stuttgart;Germany;58;United Package;Middle
+10313;2;Cunewalde;Germany;12;United Package;Low
+10314;2;Albuquerque;USA;95;United Package;Middle
+10315;2;Cowes;UK;44;United Package;Low
+10316;3;Albuquerque;USA;80;Federal Shipping;Middle
+10317;1;Portland;USA;20;Speedy Express;Low
+10318;2;Cowes;UK;26;United Package;Low
+10319;3;México D.F.;Mexico;52;Federal Shipping;Middle
+10320;3;Oulu;Finland;30;Federal Shipping;Low
+10321;2;Cowes;UK;10;United Package;Low
+10322;3;México D.F.;Mexico;20;Federal Shipping;Low
+10323;1;Brandenburg;Germany;13;Speedy Express;Low
+10324;1;Boise;USA;241;Speedy Express;Top
+10325;3;Brandenburg;Germany;71;Federal Shipping;Middle
+10326;2;Madrid;Spain;90;United Package;Middle
+10327;1;Bräcke;Sweden;140;Speedy Express;Top
+10328;3;Lisboa;Portugal;59;Federal Shipping;Middle
+10329;2;Lander;USA;50;United Package;Low
+10330;1;Barquisimeto;Venezuela;75;Speedy Express;Middle
+10331;1;Marseille;France;15;Speedy Express;Low
+10332;2;Montréal;Canada;66;United Package;Middle
+10333;3;Oulu;Finland;60;Federal Shipping;Middle
+10334;2;Lyon;France;18;United Package;Low
+10335;2;Cork;Ireland;86;United Package;Middle
+10336;2;Lisboa;Portugal;18;United Package;Low
+10337;3;München;Germany;137;Federal Shipping;Top
+10338;3;Anchorage;USA;35;Federal Shipping;Low
+10339;2;Montréal;Canada;108;United Package;Top
+10340;3;Marseille;France;72;Federal Shipping;Middle
+10341;3;Kobenhavn;Denmark;17;Federal Shipping;Low
+10342;2;München;Germany;160;United Package;Top
+10343;1;Frankfurt a.M.;Germany;69;Speedy Express;Middle
+10344;2;Seattle;USA;105;United Package;Top
+10345;2;Cunewalde;Germany;159;United Package;Top
+10346;3;Albuquerque;USA;56;Federal Shipping;Middle
+10347;3;Sao Paulo;Brazil;70;Federal Shipping;Middle
+10348;2;Stuttgart;Germany;40;United Package;Low
+10349;1;Lander;USA;24;Speedy Express;Low
+10350;2;Toulouse;France;33;United Package;Low
+10351;1;Graz;Austria;120;Speedy Express;Top
+10352;3;Lisboa;Portugal;30;Federal Shipping;Low
+10353;3;Salzburg;Austria;62;Federal Shipping;Middle
+10354;3;México D.F.;Mexico;16;Federal Shipping;Low
+10355;1;Colchester;UK;50;Speedy Express;Low
+10356;2;Stuttgart;Germany;62;United Package;Middle
+10357;3;Barquisimeto;Venezuela;54;Federal Shipping;Middle
+10358;1;Toulouse;France;40;Speedy Express;Low
+10359;3;London;UK;206;Federal Shipping;Top
+10360;3;Strasbourg;France;138;Federal Shipping;Top
+10361;2;Cunewalde;Germany;109;United Package;Top
+10362;1;Marseille;France;94;Speedy Express;Middle
+10363;3;Aachen;Germany;44;Federal Shipping;Low
+10364;1;London;UK;35;Speedy Express;Low
+10365;2;México D.F.;Mexico;24;United Package;Low
+10366;2;Barcelona;Spain;10;United Package;Low
+10367;3;Århus;Denmark;76;Federal Shipping;Middle
+10368;2;Graz;Austria;78;United Package;Middle
+10369;2;Lander;USA;38;United Package;Low
+10370;2;Bern;Switzerland;65;United Package;Middle
+10371;1;Toulouse;France;6;Speedy Express;Low
+10372;2;Sao Paulo;Brazil;164;United Package;Top
+10373;3;Cork;Ireland;130;Federal Shipping;Top
+10374;3;Warszawa;Poland;45;Federal Shipping;Low
+10375;2;Elgin;USA;25;United Package;Low
+10376;2;Montréal;Canada;42;United Package;Low
+10377;3;London;UK;40;Federal Shipping;Low
+10378;3;Bräcke;Sweden;6;Federal Shipping;Low
+10379;1;Rio de Janeiro;Brazil;44;Speedy Express;Low
+10380;3;Cork;Ireland;74;Federal Shipping;Middle
+10381;3;Barquisimeto;Venezuela;14;Federal Shipping;Low
+10382;1;Graz;Austria;165;Speedy Express;Top
+10383;3;Colchester;UK;55;Federal Shipping;Middle
+10384;3;Luleå;Sweden;43;Federal Shipping;Low
+10385;2;Lander;USA;38;United Package;Low
+10386;3;Sao Paulo;Brazil;25;Federal Shipping;Low
+10387;2;Stavern;Norway;48;United Package;Low
+10388;1;London;UK;75;Speedy Express;Middle
+10389;2;Tsawassen;Canada;81;United Package;Middle
+10390;1;Graz;Austria;169;Speedy Express;Top
+10391;3;Aachen;Germany;18;Federal Shipping;Low
+10392;3;Salzburg;Austria;50;Federal Shipping;Low
+10393;3;Boise;USA;176;Federal Shipping;Top
+10394;3;Elgin;USA;20;Federal Shipping;Low
+10395;1;San Cristóbal;Venezuela;106;Speedy Express;Top
+10396;3;München;Germany;121;Federal Shipping;Top
+10397;1;Lisboa;Portugal;28;Speedy Express;Low
+10398;3;Boise;USA;150;Federal Shipping;Top
+10399;3;Århus;Denmark;139;Federal Shipping;Top
+10400;3;London;UK;86;Federal Shipping;Middle
+10401;1;Albuquerque;USA;168;Speedy Express;Top
+10402;2;Graz;Austria;125;United Package;Top
+10403;3;Graz;Austria;91;Federal Shipping;Middle
+10404;1;Bergamo;Italy;100;Speedy Express;Middle
+10405;1;I. de Margarita;Venezuela;50;Speedy Express;Low
+10406;1;Sao Paulo;Brazil;89;Speedy Express;Middle
+10407;2;Köln;Germany;60;United Package;Middle
+10408;1;Lille;France;51;Speedy Express;Middle
+10409;1;Buenos Aires;Argentina;24;Speedy Express;Low
+10410;3;Tsawassen;Canada;65;Federal Shipping;Middle
+10411;3;Tsawassen;Canada;74;Federal Shipping;Middle
+10412;2;Oulu;Finland;20;United Package;Low
+10413;2;Toulouse;France;78;United Package;Middle
+10414;3;Sao Paulo;Brazil;68;Federal Shipping;Middle
+10415;1;Elgin;USA;22;Speedy Express;Low
+10416;3;Oulu;Finland;50;Federal Shipping;Low
+10417;3;Kobenhavn;Denmark;123;Federal Shipping;Top
+10418;1;Cunewalde;Germany;146;Speedy Express;Top
+10419;2;Genève;Switzerland;80;United Package;Middle
+10420;1;Resende;Brazil;50;Speedy Express;Low
+10421;1;Rio de Janeiro;Brazil;59;Speedy Express;Middle
+10422;1;Torino;Italy;2;Speedy Express;Low
+10423;3;Campinas;Brazil;34;Federal Shipping;Low
+10424;2;Montréal;Canada;139;United Package;Top
+10425;2;Toulouse;France;30;United Package;Low
+10426;1;Barcelona;Spain;12;Speedy Express;Low
+10427;2;Salzburg;Austria;35;United Package;Low
+10428;1;Reggio Emilia;Italy;20;Speedy Express;Low
+10429;2;Cork;Ireland;75;United Package;Middle
+10430;1;Graz;Austria;195;Speedy Express;Top
+10431;2;Tsawassen;Canada;130;United Package;Top
+10432;2;Lander;USA;50;United Package;Low
+10433;3;Lisboa;Portugal;28;Federal Shipping;Low
+10434;2;Bräcke;Sweden;24;United Package;Low
+10435;2;London;UK;32;United Package;Low
+10436;2;Strasbourg;France;99;United Package;Middle
+10437;1;Oulu;Finland;15;Speedy Express;Low
+10438;2;Münster;Germany;50;United Package;Low
+10439;3;Montréal;Canada;67;Federal Shipping;Middle
+10440;2;Boise;USA;208;United Package;Top
+10441;2;Anchorage;USA;50;United Package;Low
+10442;2;Graz;Austria;170;United Package;Top
+10443;1;Reggio Emilia;Italy;18;Speedy Express;Low
+10444;3;Luleå;Sweden;63;Federal Shipping;Middle
+10445;1;Luleå;Sweden;21;Speedy Express;Low
+10446;1;Münster;Germany;50;Speedy Express;Low
+10447;2;Rio de Janeiro;Brazil;77;United Package;Middle
+10448;2;Buenos Aires;Argentina;26;United Package;Low
+10449;2;Strasbourg;France;69;United Package;Middle
+10450;2;Lyon;France;26;United Package;Low
+10451;3;Cunewalde;Germany;238;Federal Shipping;Top
+10452;1;Boise;USA;115;Speedy Express;Top
+10453;2;Colchester;UK;40;United Package;Low
+10454;3;Toulouse;France;50;Federal Shipping;Low
+10455;2;Oulu;Finland;125;United Package;Top
+10456;2;Brandenburg;Germany;61;United Package;Middle
+10457;1;Brandenburg;Germany;36;Speedy Express;Low
+10458;3;Charleroi;Belgium;145;Federal Shipping;Top
+10459;2;Lyon;France;76;United Package;Middle
+10460;1;Bräcke;Sweden;25;Speedy Express;Low
+10461;3;Barquisimeto;Venezuela;128;Federal Shipping;Top
+10462;1;London;UK;22;Speedy Express;Low
+10463;3;Charleroi;Belgium;71;Federal Shipping;Middle
+10464;2;Lisboa;Portugal;69;United Package;Middle
+10465;3;Århus;Denmark;118;Federal Shipping;Top
+10466;1;Sao Paulo;Brazil;15;Speedy Express;Low
+10467;2;Bergamo;Italy;40;United Package;Low
+10468;3;Brandenburg;Germany;23;Federal Shipping;Low
+10469;1;Seattle;USA;77;Speedy Express;Middle
+10470;2;Marseille;France;53;United Package;Middle
+10471;3;London;UK;50;Federal Shipping;Low
+10472;1;London;UK;98;Speedy Express;Middle
+10473;3;Cowes;UK;24;Federal Shipping;Low
+10474;2;México D.F.;Mexico;61;United Package;Middle
+10475;1;Charleroi;Belgium;137;Speedy Express;Top
+10476;3;San Cristóbal;Venezuela;14;Federal Shipping;Low
+10477;2;Lisboa;Portugal;56;United Package;Middle
+10478;3;Lyon;France;20;Federal Shipping;Low
+10479;3;Albuquerque;USA;148;Federal Shipping;Top
+10480;2;Lille;France;42;United Package;Low
+10481;2;Rio de Janeiro;Brazil;64;United Package;Middle
+10482;3;Walla Walla;USA;10;Federal Shipping;Low
+10483;2;Seattle;USA;65;United Package;Middle
+10484;3;London;UK;27;Federal Shipping;Low
+10485;2;I. de Margarita;Venezuela;130;United Package;Top
+10486;2;San Cristóbal;Venezuela;46;United Package;Low
+10487;2;Sao Paulo;Brazil;59;United Package;Middle
+10488;2;München;Germany;50;United Package;Low
+10489;2;Salzburg;Austria;33;United Package;Low
+10490;2;San Cristóbal;Venezuela;126;United Package;Top
+10491;3;Lisboa;Portugal;22;Federal Shipping;Low
+10492;1;Tsawassen;Canada;80;Speedy Express;Middle
+10493;3;Toulouse;France;35;Federal Shipping;Low
+10494;2;Sao Paulo;Brazil;30;United Package;Low
+10495;3;Vancouver;Canada;35;Federal Shipping;Low
+10496;2;Sao Paulo;Brazil;20;United Package;Low
+10497;1;Frankfurt a.M.;Germany;64;Speedy Express;Middle
+10498;2;San Cristóbal;Venezuela;49;United Package;Low
+10499;2;Barquisimeto;Venezuela;45;United Package;Low
+10500;1;Toulouse;France;20;Speedy Express;Low
+10501;3;Mannheim;Germany;20;Federal Shipping;Low
+10502;1;México D.F.;Mexico;57;Speedy Express;Middle
+10503;2;Cork;Ireland;90;United Package;Middle
+10504;3;Seattle;USA;59;Federal Shipping;Middle
+10505;3;Montréal;Canada;3;Federal Shipping;Low
+10506;2;Brandenburg;Germany;32;United Package;Low
+10507;1;México D.F.;Mexico;30;Speedy Express;Low
+10508;2;Köln;Germany;20;United Package;Low
+10509;1;Mannheim;Germany;3;Speedy Express;Low
+10510;3;Boise;USA;72;Federal Shipping;Middle
+10511;3;Marseille;France;110;Federal Shipping;Top
+10512;2;Sao Paulo;Brazil;37;United Package;Low
+10513;1;Stuttgart;Germany;105;Speedy Express;Top
+10514;2;Graz;Austria;233;United Package;Top
+10515;1;Cunewalde;Germany;286;Speedy Express;Top
+10516;3;Cork;Ireland;125;Federal Shipping;Top
+10517;3;London;UK;16;Federal Shipping;Low
+10518;2;México D.F.;Mexico;29;United Package;Low
+10519;3;Bern;Switzerland;66;Federal Shipping;Middle
+10520;1;Stavern;Norway;13;Speedy Express;Low
+10521;2;Buenos Aires;Argentina;19;United Package;Low
+10522;1;Frankfurt a.M.;Germany;109;Speedy Express;Top
+10523;2;London;UK;64;United Package;Middle
+10524;2;Luleå;Sweden;87;United Package;Middle
+10525;2;Marseille;France;45;United Package;Low
+10526;2;Oulu;Finland;48;United Package;Low
+10527;1;Cunewalde;Germany;80;Speedy Express;Middle
+10528;2;Eugene;USA;20;United Package;Low
+10529;2;Bruxelles;Belgium;44;United Package;Low
+10530;2;Salzburg;Austria;135;United Package;Top
+10531;1;Buenos Aires;Argentina;2;Speedy Express;Low
+10532;3;London;UK;39;Federal Shipping;Low
+10533;1;Bräcke;Sweden;98;Speedy Express;Middle
+10534;2;Frankfurt a.M.;Germany;30;United Package;Low
+10535;1;México D.F.;Mexico;80;Speedy Express;Middle
+10536;2;Frankfurt a.M.;Germany;100;United Package;Middle
+10537;1;Genève;Switzerland;86;Speedy Express;Middle
+10538;3;London;UK;8;Federal Shipping;Low
+10539;3;London;UK;44;Federal Shipping;Low
+10540;3;Cunewalde;Germany;165;Federal Shipping;Top
+10541;1;Rio de Janeiro;Brazil;84;Speedy Express;Middle
+10542;3;Brandenburg;Germany;39;Federal Shipping;Low
+10543;2;Barquisimeto;Venezuela;100;United Package;Middle
+10544;1;Portland;USA;14;Speedy Express;Low
+10545;2;Walla Walla;USA;10;United Package;Low
+10546;3;Lyon;France;80;Federal Shipping;Middle
+10547;2;London;UK;84;United Package;Middle
+10548;2;Münster;Germany;24;United Package;Low
+10549;1;Cunewalde;Germany;203;Speedy Express;Top
+10550;3;Sevilla;Spain;34;Federal Shipping;Low
+10551;3;Lisboa;Portugal;100;Federal Shipping;Middle
+10552;1;San Cristóbal;Venezuela;48;Speedy Express;Low
+10553;2;Oulu;Finland;89;United Package;Middle
+10554;3;Köln;Germany;80;Federal Shipping;Middle
+10555;3;Boise;USA;143;Federal Shipping;Top
+10556;1;Kobenhavn;Denmark;24;Speedy Express;Low
+10557;2;Frankfurt a.M.;Germany;50;United Package;Low
+10558;2;Colchester;UK;96;United Package;Middle
+10559;1;Strasbourg;France;30;Speedy Express;Low
+10560;1;München;Germany;35;Speedy Express;Low
+10561;2;Bräcke;Sweden;60;United Package;Middle
+10562;1;Reggio Emilia;Italy;30;Speedy Express;Low
+10563;2;Rio de Janeiro;Brazil;95;United Package;Middle
+10564;3;Albuquerque;USA;47;Federal Shipping;Low
+10565;2;Montréal;Canada;43;United Package;Low
+10566;1;Strasbourg;France;63;Speedy Express;Middle
+10567;1;Cork;Ireland;103;Speedy Express;Top
+10568;3;Barcelona;Spain;5;Federal Shipping;Low
+10569;1;Albuquerque;USA;65;Speedy Express;Middle
+10570;3;Montréal;Canada;75;Federal Shipping;Middle
+10571;3;Graz;Austria;39;Federal Shipping;Low
+10572;2;Luleå;Sweden;87;United Package;Middle
+10573;3;México D.F.;Mexico;83;Federal Shipping;Middle
+10574;2;Kirkland;USA;32;United Package;Low
+10575;1;Leipzig;Germany;58;Speedy Express;Middle
+10576;3;México D.F.;Mexico;51;Federal Shipping;Middle
+10577;2;Kirkland;USA;48;United Package;Low
+10578;3;London;UK;26;Federal Shipping;Low
+10579;2;San Francisco;USA;31;United Package;Low
+10580;3;Köln;Germany;54;Federal Shipping;Middle
+10581;1;Sao Paulo;Brazil;50;Speedy Express;Low
+10582;2;Mannheim;Germany;18;United Package;Low
+10583;2;Oulu;Finland;44;United Package;Low
+10584;1;Strasbourg;France;50;Speedy Express;Low
+10585;1;Resende;Brazil;15;Speedy Express;Low
+10586;1;Reggio Emilia;Italy;4;Speedy Express;Low
+10587;1;Rio de Janeiro;Brazil;46;Speedy Express;Low
+10588;3;Cunewalde;Germany;140;Federal Shipping;Top
+10589;2;Eugene;USA;4;United Package;Low
+10590;3;Montréal;Canada;80;Federal Shipping;Middle
+10591;1;Århus;Denmark;74;Speedy Express;Middle
+10592;1;Frankfurt a.M.;Germany;30;Speedy Express;Low
+10593;2;Frankfurt a.M.;Germany;45;United Package;Low
+10594;2;Anchorage;USA;54;United Package;Middle
+10595;1;Graz;Austria;215;Speedy Express;Top
+10596;1;Seattle;USA;59;Speedy Express;Middle
+10597;3;Salzburg;Austria;67;Federal Shipping;Middle
+10598;3;Albuquerque;USA;59;Federal Shipping;Middle
+10599;3;London;UK;10;Federal Shipping;Low
+10600;1;Elgin;USA;34;Speedy Express;Low
+10601;1;San Cristóbal;Venezuela;95;Speedy Express;Middle
+10602;2;Århus;Denmark;5;United Package;Low
+10603;2;Boise;USA;73;United Package;Middle
+10604;1;Lisboa;Portugal;16;Speedy Express;Low
+10605;2;Montréal;Canada;135;United Package;Top
+10606;3;Sao Paulo;Brazil;50;Federal Shipping;Low
+10607;1;Boise;USA;213;Speedy Express;Top
+10608;2;Münster;Germany;28;United Package;Low
+10609;2;Nantes;France;19;United Package;Low
+10610;1;Toulouse;France;21;Speedy Express;Low
+10611;2;Warszawa;Poland;31;United Package;Low
+10612;2;Boise;USA;263;United Package;Top
+10613;2;San Cristóbal;Venezuela;48;United Package;Low
+10614;3;Mannheim;Germany;27;Federal Shipping;Low
+10615;3;Helsinki;Finland;5;Federal Shipping;Low
+10616;2;Eugene;USA;59;United Package;Middle
+10617;2;Eugene;USA;30;United Package;Low
+10618;1;Montréal;Canada;105;Speedy Express;Top
+10619;3;Montréal;Canada;82;Federal Shipping;Middle
+10620;3;Vancouver;Canada;10;Federal Shipping;Low
+10621;2;Cowes;UK;50;United Package;Low
+10622;3;Rio de Janeiro;Brazil;38;Federal Shipping;Low
+10623;2;München;Germany;94;United Package;Middle
+10624;2;Butte;USA;26;United Package;Low
+10625;1;México D.F.;Mexico;18;Speedy Express;Low
+10626;2;Luleå;Sweden;52;United Package;Middle
+10627;3;Boise;USA;50;Federal Shipping;Low
+10628;3;Strasbourg;France;25;Federal Shipping;Low
+10629;3;Sevilla;Spain;29;Federal Shipping;Low
+10630;2;Brandenburg;Germany;47;United Package;Low
+10631;1;Toulouse;France;8;Speedy Express;Low
+10632;1;Stuttgart;Germany;50;Speedy Express;Low
+10633;3;Graz;Austria;164;Federal Shipping;Top
+10634;3;Lille;France;102;Federal Shipping;Top
+10635;3;Bergamo;Italy;65;Federal Shipping;Middle
+10636;1;Oulu;Finland;31;Speedy Express;Low
+10637;1;Sao Paulo;Brazil;95;Speedy Express;Middle
+10638;1;I. de Margarita;Venezuela;101;Speedy Express;Top
+10639;3;Stavern;Norway;8;Federal Shipping;Low
+10640;1;Stuttgart;Germany;35;Speedy Express;Low
+10641;2;San Cristóbal;Venezuela;110;United Package;Top
+10642;3;Kobenhavn;Denmark;50;Federal Shipping;Low
+10643;1;Berlin;Germany;38;Speedy Express;Low
+10644;2;Resende;Brazil;45;United Package;Low
+10645;1;Rio de Janeiro;Brazil;35;Speedy Express;Low
+10646;3;Cork;Ireland;98;Federal Shipping;Middle
+10647;2;Rio de Janeiro;Brazil;50;United Package;Low
+10648;2;Rio de Janeiro;Brazil;30;United Package;Low
+10649;3;Bruxelles;Belgium;35;Federal Shipping;Low
+10650;3;Sao Paulo;Brazil;85;Federal Shipping;Middle
+10651;2;Stuttgart;Germany;32;United Package;Low
+10652;2;Campinas;Brazil;22;United Package;Low
+10653;1;München;Germany;50;Speedy Express;Low
+10654;1;Luleå;Sweden;38;Speedy Express;Low
+10655;2;Reggio Emilia;Italy;20;United Package;Low
+10656;1;Eugene;USA;37;Speedy Express;Low
+10657;2;Boise;USA;204;United Package;Top
+10658;1;Cunewalde;Germany;255;Speedy Express;Top
+10659;2;Sao Paulo;Brazil;84;United Package;Middle
+10660;1;Elgin;USA;21;Speedy Express;Low
+10661;3;Cork;Ireland;52;Federal Shipping;Middle
+10662;2;Portland;USA;10;United Package;Low
+10663;2;Marseille;France;80;United Package;Middle
+10664;3;Lisboa;Portugal;51;Federal Shipping;Middle
+10665;2;Portland;USA;31;United Package;Low
+10666;2;Genève;Switzerland;46;United Package;Low
+10667;1;Graz;Austria;59;Speedy Express;Middle
+10668;2;Stuttgart;Germany;27;United Package;Low
+10669;1;Kobenhavn;Denmark;30;Speedy Express;Low
+10670;1;München;Germany;192;Speedy Express;Top
+10671;1;Nantes;France;32;Speedy Express;Low
+10672;2;Luleå;Sweden;27;United Package;Low
+10673;1;Helsinki;Finland;15;Speedy Express;Low
+10674;2;Cowes;UK;5;United Package;Low
+10675;2;München;Germany;70;United Package;Middle
+10676;2;México D.F.;Mexico;30;United Package;Low
+10677;3;México D.F.;Mexico;38;Federal Shipping;Low
+10678;3;Boise;USA;280;Federal Shipping;Top
+10679;3;Strasbourg;France;12;Federal Shipping;Low
+10680;1;Anchorage;USA;110;Speedy Express;Top
+10681;3;Eugene;USA;70;Federal Shipping;Middle
+10682;2;México D.F.;Mexico;64;United Package;Middle
+10683;1;Nantes;France;9;Speedy Express;Low
+10684;1;Köln;Germany;90;Speedy Express;Middle
+10685;2;Campinas;Brazil;39;United Package;Low
+10686;1;Salzburg;Austria;45;Speedy Express;Low
+10687;2;Cork;Ireland;66;United Package;Middle
+10688;2;Århus;Denmark;92;United Package;Middle
+10689;2;Luleå;Sweden;35;United Package;Low
+10690;1;Rio de Janeiro;Brazil;50;Speedy Express;Low
+10691;2;Cunewalde;Germany;182;United Package;Top
+10692;2;Berlin;Germany;20;United Package;Low
+10693;3;Seattle;USA;111;Federal Shipping;Top
+10694;3;Cunewalde;Germany;165;Federal Shipping;Top
+10695;1;Helsinki;Finland;34;Speedy Express;Low
+10696;3;Seattle;USA;38;Federal Shipping;Low
+10697;1;I. de Margarita;Venezuela;76;Speedy Express;Middle
+10698;1;Graz;Austria;108;Speedy Express;Top
+10699;3;Leipzig;Germany;12;Federal Shipping;Low
+10700;1;Boise;USA;117;Speedy Express;Top
+10701;3;Cork;Ireland;97;Federal Shipping;Middle
+10702;1;Berlin;Germany;21;Speedy Express;Low
+10703;2;Bräcke;Sweden;75;United Package;Middle
+10704;1;Sao Paulo;Brazil;65;Speedy Express;Middle
+10705;2;San Cristóbal;Venezuela;24;United Package;Low
+10706;3;Anchorage;USA;52;Federal Shipping;Middle
+10707;3;Colchester;UK;89;Federal Shipping;Middle
+10708;2;Portland;USA;9;United Package;Low
+10709;3;Campinas;Brazil;78;Federal Shipping;Middle
+10710;1;Torino;Italy;10;Speedy Express;Low
+10711;2;Boise;USA;174;United Package;Top
+10712;1;Cork;Ireland;33;Speedy Express;Low
+10713;1;Boise;USA;182;Speedy Express;Top
+10714;3;Boise;USA;137;Federal Shipping;Top
+10715;1;Marseille;France;51;Speedy Express;Middle
+10716;2;Buenos Aires;Argentina;22;United Package;Low
+10717;2;München;Germany;72;United Package;Middle
+10718;3;Brandenburg;Germany;116;Federal Shipping;Top
+10719;2;San Francisco;USA;55;United Package;Middle
+10720;2;Rio de Janeiro;Brazil;29;United Package;Low
+10721;3;Cunewalde;Germany;50;Federal Shipping;Low
+10722;1;Boise;USA;140;Speedy Express;Top
+10723;1;Seattle;USA;15;Speedy Express;Low
+10724;2;Montréal;Canada;21;United Package;Low
+10725;3;Sao Paulo;Brazil;22;Federal Shipping;Low
+10726;1;London;UK;30;Speedy Express;Low
+10727;1;Reggio Emilia;Italy;40;Speedy Express;Low
+10728;2;Sao Paulo;Brazil;48;United Package;Low
+10729;3;I. de Margarita;Venezuela;120;Federal Shipping;Top
+10730;1;Marseille;France;28;Speedy Express;Low
+10731;1;Bern;Switzerland;70;Speedy Express;Middle
+10732;1;Marseille;France;20;Speedy Express;Low
+10733;3;Luleå;Sweden;61;Federal Shipping;Middle
+10734;3;Campinas;Brazil;65;Federal Shipping;Middle
+10735;2;San Francisco;USA;22;United Package;Low
+10736;2;Cork;Ireland;60;United Package;Middle
+10737;2;Reims;France;16;United Package;Low
+10738;1;Paris;France;3;Speedy Express;Low
+10739;3;Reims;France;24;Federal Shipping;Low
+10740;2;Seattle;USA;94;United Package;Middle
+10741;3;Colchester;UK;15;Federal Shipping;Low
+10742;3;Tsawassen;Canada;105;Federal Shipping;Top
+10743;2;Colchester;UK;28;United Package;Low
+10744;1;Århus;Denmark;50;Speedy Express;Low
+10745;1;Cunewalde;Germany;92;Speedy Express;Middle
+10746;3;Bern;Switzerland;83;Federal Shipping;Middle
+10747;1;Salzburg;Austria;82;Speedy Express;Middle
+10748;1;Boise;USA;112;Speedy Express;Top
+10749;2;Cowes;UK;31;United Package;Low
+10750;1;Oulu;Finland;70;Speedy Express;Middle
+10751;3;Genève;Switzerland;77;Federal Shipping;Middle
+10752;3;London;UK;11;Federal Shipping;Low
+10753;1;Torino;Italy;9;Speedy Express;Low
+10754;3;Bergamo;Italy;3;Federal Shipping;Low
+10755;2;Marseille;France;99;United Package;Middle
+10756;2;Lander;USA;67;United Package;Middle
+10757;1;Boise;USA;91;Speedy Express;Middle
+10758;3;Genève;Switzerland;120;Federal Shipping;Top
+10759;3;México D.F.;Mexico;10;Federal Shipping;Low
+10760;1;Bruxelles;Belgium;82;Speedy Express;Middle
+10761;2;Albuquerque;USA;53;United Package;Middle
+10762;1;Bräcke;Sweden;134;Speedy Express;Top
+10763;3;Lille;France;66;Federal Shipping;Middle
+10764;3;Graz;Austria;150;Federal Shipping;Top
+10765;3;Cunewalde;Germany;80;Federal Shipping;Middle
+10766;1;Köln;Germany;115;Speedy Express;Top
+10767;3;Charleroi;Belgium;2;Federal Shipping;Low
+10768;2;Colchester;UK;81;United Package;Middle
+10769;1;Århus;Denmark;80;Speedy Express;Middle
+10770;3;Rio de Janeiro;Brazil;15;Federal Shipping;Low
+10771;2;Graz;Austria;16;United Package;Low
+10772;2;Frankfurt a.M.;Germany;43;United Package;Low
+10773;3;Graz;Austria;110;Federal Shipping;Top
+10774;1;Bräcke;Sweden;52;Speedy Express;Middle
+10775;1;Butte;USA;9;Speedy Express;Low
+10776;3;Graz;Austria;175;Federal Shipping;Top
+10777;2;Campinas;Brazil;20;United Package;Low
+10778;1;Luleå;Sweden;10;Speedy Express;Low
+10779;2;Leipzig;Germany;40;United Package;Low
+10780;1;Barquisimeto;Venezuela;50;Speedy Express;Low
+10781;3;Oulu;Finland;58;Federal Shipping;Middle
+10782;3;Buenos Aires;Argentina;1;Federal Shipping;Low
+10783;2;Rio de Janeiro;Brazil;15;United Package;Low
+10784;3;Bergamo;Italy;62;Federal Shipping;Middle
+10785;3;Caracas;Venezuela;20;Federal Shipping;Low
+10786;1;Sao Paulo;Brazil;87;Speedy Express;Middle
+10787;1;Toulouse;France;35;Speedy Express;Low
+10788;2;Cunewalde;Germany;90;United Package;Middle
+10789;2;Lille;France;93;United Package;Middle
+10790;1;Campinas;Brazil;23;Speedy Express;Low
+10791;2;München;Germany;34;United Package;Low
+10792;3;Warszawa;Poland;28;Federal Shipping;Low
+10793;3;Colchester;UK;22;Federal Shipping;Low
+10794;1;Rio de Janeiro;Brazil;21;Speedy Express;Low
+10795;2;Graz;Austria;100;United Package;Middle
+10796;1;San Cristóbal;Venezuela;90;Speedy Express;Middle
+10797;2;Aachen;Germany;20;United Package;Low
+10798;1;Cowes;UK;12;Speedy Express;Low
+10799;3;Brandenburg;Germany;65;Federal Shipping;Middle
+10800;3;London;UK;67;Federal Shipping;Middle
+10801;2;Madrid;Spain;60;United Package;Middle
+10802;2;Kobenhavn;Denmark;120;United Package;Top
+10803;1;Resende;Brazil;54;Speedy Express;Middle
+10804;2;London;UK;64;United Package;Middle
+10805;3;Portland;USA;20;Federal Shipping;Low
+10806;2;Lyon;France;37;United Package;Low
+10807;1;Torino;Italy;1;Speedy Express;Low
+10808;3;Anchorage;USA;70;Federal Shipping;Middle
+10809;1;Resende;Brazil;20;Speedy Express;Low
+10810;3;Vancouver;Canada;17;Federal Shipping;Low
+10811;1;I. de Margarita;Venezuela;63;Speedy Express;Middle
+10812;1;Reggio Emilia;Italy;76;Speedy Express;Middle
+10813;1;Rio de Janeiro;Brazil;47;Speedy Express;Low
+10814;3;Lyon;France;78;Federal Shipping;Middle
+10815;3;Boise;USA;16;Federal Shipping;Low
+10816;2;Eugene;USA;50;United Package;Low
+10817;2;Brandenburg;Germany;155;United Package;Top
+10818;3;Bergamo;Italy;40;Federal Shipping;Low
+10819;3;Buenos Aires;Argentina;27;Federal Shipping;Low
+10820;2;Albuquerque;USA;30;United Package;Low
+10821;1;Lander;USA;26;Speedy Express;Low
+10822;3;Kirkland;USA;9;Federal Shipping;Low
+10823;2;Barquisimeto;Venezuela;90;United Package;Middle
+10824;1;Bräcke;Sweden;21;Speedy Express;Low
+10825;1;Aachen;Germany;32;Speedy Express;Low
+10826;1;Strasbourg;France;50;Speedy Express;Low
+10827;2;Marseille;France;36;United Package;Low
+10828;1;Buenos Aires;Argentina;7;Speedy Express;Low
+10829;1;Cowes;UK;61;Speedy Express;Middle
+10830;2;Sao Paulo;Brazil;88;United Package;Middle
+10831;2;Stavern;Norway;27;United Package;Low
+10832;2;Toulouse;France;32;United Package;Low
+10833;2;Köln;Germany;38;United Package;Low
+10834;3;Sao Paulo;Brazil;28;Federal Shipping;Low
+10835;3;Berlin;Germany;17;Federal Shipping;Low
+10836;1;Graz;Austria;172;Speedy Express;Top
+10837;3;Luleå;Sweden;92;Federal Shipping;Middle
+10838;3;I. de Margarita;Venezuela;79;Federal Shipping;Middle
+10839;3;Sao Paulo;Brazil;45;Federal Shipping;Low
+10840;2;I. de Margarita;Venezuela;16;United Package;Low
+10841;2;Charleroi;Belgium;111;United Package;Top
+10842;3;México D.F.;Mexico;52;Federal Shipping;Middle
+10843;2;Lyon;France;4;United Package;Low
+10844;2;Salzburg;Austria;35;United Package;Low
+10845;1;Cunewalde;Germany;245;Speedy Express;Top
+10846;3;Charleroi;Belgium;71;Federal Shipping;Middle
+10847;3;Boise;USA;288;Federal Shipping;Top
+10848;2;London;UK;33;United Package;Low
+10849;2;Brandenburg;Germany;67;United Package;Middle
+10850;1;Lyon;France;54;Speedy Express;Middle
+10851;1;Rio de Janeiro;Brazil;67;Speedy Express;Middle
+10852;1;Albuquerque;USA;71;Speedy Express;Middle
+10853;2;Mannheim;Germany;10;United Package;Low
+10854;2;Graz;Austria;165;United Package;Top
+10855;1;Anchorage;USA;103;Speedy Express;Top
+10856;2;México D.F.;Mexico;40;United Package;Low
+10857;2;Luleå;Sweden;75;United Package;Middle
+10858;1;Versailles;France;19;Speedy Express;Low
+10859;2;München;Germany;105;United Package;Top
+10860;3;Nantes;France;23;Federal Shipping;Low
+10861;2;Seattle;USA;140;United Package;Top
+10862;2;Frankfurt a.M.;Germany;33;United Package;Low
+10863;2;San Cristóbal;Venezuela;32;United Package;Low
+10864;2;Colchester;UK;19;United Package;Low
+10865;1;Cunewalde;Germany;140;Speedy Express;Top
+10866;1;Luleå;Sweden;67;Speedy Express;Middle
+10867;1;Portland;USA;3;Speedy Express;Low
+10868;2;Sao Paulo;Brazil;92;United Package;Middle
+10869;1;London;UK;120;Speedy Express;Top
+10870;3;Warszawa;Poland;5;Federal Shipping;Low
+10871;2;Marseille;France;78;United Package;Middle
+10872;2;Sevilla;Spain;66;United Package;Middle
+10873;1;Helsinki;Finland;23;Speedy Express;Low
+10874;2;Sevilla;Spain;10;United Package;Low
+10875;2;Luleå;Sweden;61;United Package;Middle
+10876;3;Marseille;France;41;Federal Shipping;Low
+10877;1;Rio de Janeiro;Brazil;55;Speedy Express;Middle
+10878;1;Cunewalde;Germany;20;Speedy Express;Low
+10879;3;Helsinki;Finland;32;Federal Shipping;Low
+10880;1;Bräcke;Sweden;110;Speedy Express;Top
+10881;1;Buenos Aires;Argentina;10;Speedy Express;Low
+10882;3;Boise;USA;77;Federal Shipping;Middle
+10883;3;Portland;USA;8;Federal Shipping;Low
+10884;2;San Francisco;USA;73;United Package;Middle
+10885;3;Charleroi;Belgium;87;Federal Shipping;Middle
+10886;1;Rio de Janeiro;Brazil;145;Speedy Express;Top
+10887;3;Barcelona;Spain;5;Federal Shipping;Low
+10888;2;Sevilla;Spain;38;United Package;Low
+10889;3;Albuquerque;USA;80;Federal Shipping;Middle
+10890;1;Nantes;France;39;Speedy Express;Low
+10891;2;Frankfurt a.M.;Germany;15;United Package;Low
+10892;2;Bruxelles;Belgium;40;United Package;Low
+10893;2;Brandenburg;Germany;119;United Package;Top
+10894;1;Boise;USA;198;Speedy Express;Top
+10895;1;Graz;Austria;346;Speedy Express;Top
+10896;3;Bruxelles;Belgium;31;Federal Shipping;Low
+10897;2;Cork;Ireland;116;United Package;Top
+10898;2;Buenos Aires;Argentina;5;United Package;Low
+10899;3;Barquisimeto;Venezuela;8;Federal Shipping;Low
+10900;2;Resende;Brazil;3;United Package;Low
+10901;1;San Cristóbal;Venezuela;60;Speedy Express;Middle
+10902;1;Bräcke;Sweden;36;Speedy Express;Low
+10903;3;Rio de Janeiro;Brazil;81;Federal Shipping;Middle
+10904;3;Seattle;USA;50;Federal Shipping;Low
+10905;2;Resende;Brazil;20;United Package;Low
+10906;3;Warszawa;Poland;15;Federal Shipping;Low
+10907;3;Paris;France;14;Federal Shipping;Low
+10908;2;Reggio Emilia;Italy;34;United Package;Low
+10909;2;Stavern;Norway;32;United Package;Low
+10910;3;Helsinki;Finland;27;Federal Shipping;Low
+10911;1;Sevilla;Spain;37;Speedy Express;Low
+10912;2;Cork;Ireland;100;United Package;Middle
+10913;1;Sao Paulo;Brazil;85;Speedy Express;Middle
+10914;1;Sao Paulo;Brazil;25;Speedy Express;Low
+10915;2;México D.F.;Mexico;50;United Package;Low
+10916;2;Buenos Aires;Argentina;32;United Package;Low
+10917;2;Madrid;Spain;11;United Package;Low
+10918;3;Tsawassen;Canada;85;Federal Shipping;Middle
+10919;2;I. de Margarita;Venezuela;68;United Package;Middle
+10920;2;Colchester;UK;24;United Package;Low
+10921;1;Århus;Denmark;50;Speedy Express;Low
+10922;3;Rio de Janeiro;Brazil;50;Federal Shipping;Low
+10923;3;Toulouse;France;44;Federal Shipping;Low
+10924;2;Luleå;Sweden;56;United Package;Middle
+10925;1;Rio de Janeiro;Brazil;37;Speedy Express;Low
+10926;3;México D.F.;Mexico;29;Federal Shipping;Low
+10927;1;Versailles;France;30;Speedy Express;Low
+10928;1;Barcelona;Spain;10;Speedy Express;Low
+10929;1;München;Germany;124;Speedy Express;Top
+10930;3;Charleroi;Belgium;116;Federal Shipping;Top
+10931;2;Genève;Switzerland;72;United Package;Middle
+10932;1;Marseille;France;80;Speedy Express;Middle
+10933;3;Cowes;UK;32;Federal Shipping;Low
+10934;3;Frankfurt a.M.;Germany;20;Federal Shipping;Low
+10935;3;Resende;Brazil;33;Federal Shipping;Low
+10936;2;Eugene;USA;30;United Package;Low
+10937;3;Buenos Aires;Argentina;28;Federal Shipping;Low
+10938;2;Cunewalde;Germany;128;United Package;Top
+10939;2;Bergamo;Italy;50;United Package;Low
+10940;3;Marseille;France;28;Federal Shipping;Low
+10941;2;Boise;USA;204;United Package;Top
+10942;3;Reggio Emilia;Italy;28;Federal Shipping;Low
+10943;2;London;UK;51;United Package;Middle
+10944;3;Tsawassen;Canada;41;Federal Shipping;Low
+10945;1;Leipzig;Germany;30;Speedy Express;Low
+10946;2;Århus;Denmark;90;United Package;Middle
+10947;2;London;UK;4;United Package;Low
+10948;3;Sevilla;Spain;53;Federal Shipping;Middle
+10949;3;Tsawassen;Canada;108;Federal Shipping;Top
+10950;2;Bergamo;Italy;5;United Package;Low
+10951;2;Genève;Switzerland;71;United Package;Middle
+10952;1;Berlin;Germany;18;Speedy Express;Low
+10953;2;Colchester;UK;100;United Package;Middle
+10954;1;I. de Margarita;Venezuela;107;Speedy Express;Top
+10955;2;Bräcke;Sweden;12;United Package;Low
+10956;2;Mannheim;Germany;34;United Package;Low
+10957;3;San Cristóbal;Venezuela;78;Federal Shipping;Middle
+10958;2;Buenos Aires;Argentina;31;United Package;Low
+10959;2;Campinas;Brazil;20;United Package;Low
+10960;1;San Cristóbal;Venezuela;34;Speedy Express;Low
+10961;1;Sao Paulo;Brazil;66;Speedy Express;Middle
+10962;2;Cunewalde;Germany;195;United Package;Top
+10963;3;Lisboa;Portugal;2;Federal Shipping;Low
+10964;2;Paris;France;21;United Package;Low
+10965;3;Anchorage;USA;16;Federal Shipping;Low
+10966;1;Bern;Switzerland;32;Speedy Express;Low
+10967;2;Münster;Germany;52;United Package;Middle
+10968;3;Graz;Austria;64;Federal Shipping;Middle
+10969;2;Sao Paulo;Brazil;9;United Package;Low
+10970;1;Madrid;Spain;40;Speedy Express;Low
+10971;2;Nantes;France;14;United Package;Low
+10972;2;Versailles;France;13;United Package;Low
+10973;2;Versailles;France;21;United Package;Low
+10974;3;Lander;USA;10;Federal Shipping;Low
+10975;3;Tsawassen;Canada;26;Federal Shipping;Low
+10976;1;San Cristóbal;Venezuela;20;Speedy Express;Low
+10977;3;Bräcke;Sweden;90;Federal Shipping;Middle
+10978;2;Bruxelles;Belgium;76;United Package;Middle
+10979;2;Graz;Austria;207;United Package;Top
+10980;1;Bräcke;Sweden;40;Speedy Express;Low
+10981;2;Rio de Janeiro;Brazil;60;United Package;Middle
+10982;1;Tsawassen;Canada;29;Speedy Express;Low
+10983;2;Boise;USA;99;United Package;Middle
+10984;3;Boise;USA;115;Federal Shipping;Top
+10985;1;Cork;Ireland;79;Speedy Express;Middle
+10986;2;Buenos Aires;Argentina;70;United Package;Middle
+10987;1;London;UK;86;Speedy Express;Middle
+10988;2;Albuquerque;USA;100;United Package;Middle
+10989;1;Rio de Janeiro;Brazil;59;Speedy Express;Middle
+10990;3;Graz;Austria;256;Federal Shipping;Top
+10991;1;Cunewalde;Germany;160;Speedy Express;Top
+10992;3;Portland;USA;2;Federal Shipping;Low
+10993;3;Bräcke;Sweden;85;Federal Shipping;Middle
+10994;3;Århus;Denmark;18;Federal Shipping;Low
+10995;3;México D.F.;Mexico;24;Federal Shipping;Low
+10996;2;Cunewalde;Germany;40;United Package;Low
+10997;2;Barquisimeto;Venezuela;90;United Package;Middle
+10998;2;Warszawa;Poland;69;United Package;Middle
+10999;2;Köln;Germany;56;United Package;Middle
+11000;3;Albuquerque;USA;85;Federal Shipping;Middle
+11001;2;Bräcke;Sweden;116;United Package;Top
+11002;1;Boise;USA;135;Speedy Express;Top
+11003;3;Butte;USA;24;Federal Shipping;Low
+11004;1;Bruxelles;Belgium;12;Speedy Express;Low
+11005;1;Helsinki;Finland;12;Speedy Express;Low
+11006;2;Eugene;USA;10;United Package;Low
+11007;2;Lisboa;Portugal;54;United Package;Middle
+11008;3;Graz;Austria;181;Federal Shipping;Top
+11009;1;Sevilla;Spain;39;Speedy Express;Low
+11010;2;Reggio Emilia;Italy;30;United Package;Low
+11011;1;Berlin;Germany;60;Speedy Express;Middle
+11012;3;München;Germany;146;Federal Shipping;Top
+11013;1;Madrid;Spain;36;Speedy Express;Low
+11014;3;I. de Margarita;Venezuela;28;Federal Shipping;Low
+11015;2;Stavern;Norway;33;United Package;Low
+11016;2;Colchester;UK;31;United Package;Low
+11017;2;Graz;Austria;165;United Package;Top
+11018;2;Portland;USA;35;United Package;Low
+11019;3;Buenos Aires;Argentina;5;Federal Shipping;Low
+11020;2;Köln;Germany;24;United Package;Low
+11021;1;Cunewalde;Germany;168;Speedy Express;Top
+11022;2;Rio de Janeiro;Brazil;65;United Package;Middle
+11023;2;London;UK;34;United Package;Low
+11024;1;London;UK;113;Speedy Express;Top
+11025;3;Oulu;Finland;30;Federal Shipping;Low
+11026;1;Torino;Italy;18;Speedy Express;Low
+11027;1;Tsawassen;Canada;51;Speedy Express;Middle
+11028;1;Brandenburg;Germany;59;Speedy Express;Middle
+11029;1;Bern;Switzerland;32;Speedy Express;Low
+11030;2;Boise;USA;330;United Package;Top
+11031;2;Boise;USA;182;United Package;Top
+11032;3;Seattle;USA;90;Federal Shipping;Middle
+11033;3;Genève;Switzerland;106;Federal Shipping;Top
+11034;1;Anchorage;USA;33;Speedy Express;Low
+11035;2;Charleroi;Belgium;110;United Package;Top
+11036;3;Aachen;Germany;37;Federal Shipping;Low
+11037;1;Sevilla;Spain;4;Speedy Express;Low
+11038;2;Charleroi;Belgium;37;United Package;Low
+11039;2;I. de Margarita;Venezuela;132;United Package;Top
+11040;3;Eugene;USA;20;Federal Shipping;Low
+11041;2;Bern;Switzerland;60;United Package;Middle
+11042;1;Sao Paulo;Brazil;19;Speedy Express;Low
+11043;2;Paris;France;10;United Package;Low
+11044;1;Warszawa;Poland;12;Speedy Express;Low
+11045;2;Tsawassen;Canada;39;United Package;Low
+11046;2;Stuttgart;Germany;53;United Package;Middle
+11047;3;London;UK;55;Federal Shipping;Middle
+11048;3;Tsawassen;Canada;42;Federal Shipping;Low
+11049;1;Campinas;Brazil;14;Speedy Express;Low
+11050;2;Bräcke;Sweden;50;United Package;Low
+11051;3;Toulouse;France;10;Federal Shipping;Low
+11052;1;Rio de Janeiro;Brazil;40;Speedy Express;Low
+11053;2;Salzburg;Austria;80;United Package;Middle
+11054;1;Buenos Aires;Argentina;30;Speedy Express;Low
+11055;2;San Cristóbal;Venezuela;70;United Package;Middle
+11056;2;London;UK;125;United Package;Top
+11057;3;London;UK;3;Federal Shipping;Low
+11058;3;Mannheim;Germany;28;Federal Shipping;Low
+11059;2;Rio de Janeiro;Brazil;77;United Package;Middle
+11060;2;Torino;Italy;14;United Package;Low
+11061;3;Eugene;USA;15;Federal Shipping;Low
+11062;2;Reggio Emilia;Italy;22;United Package;Low
+11063;2;Cork;Ireland;100;United Package;Middle
+11064;1;Boise;USA;173;Speedy Express;Top
+11065;1;Barquisimeto;Venezuela;24;Speedy Express;Low
+11066;2;Seattle;USA;80;United Package;Middle
+11067;2;Aachen;Germany;9;United Package;Low
+11068;2;Sao Paulo;Brazil;72;United Package;Middle
+11069;2;México D.F.;Mexico;20;United Package;Low
+11070;1;Frankfurt a.M.;Germany;110;Speedy Express;Top
+11071;1;Barquisimeto;Venezuela;25;Speedy Express;Low
+11072;2;Graz;Austria;200;United Package;Top
+11073;2;México D.F.;Mexico;30;United Package;Low
+11074;2;Kobenhavn;Denmark;14;United Package;Low
+11075;2;Genève;Switzerland;42;United Package;Low
+11076;2;Marseille;France;50;United Package;Low
+11077;2;Albuquerque;USA;72;United Package;Middle
